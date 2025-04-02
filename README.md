@@ -112,6 +112,3 @@ flutter build ios --release
 ```sh
 flutter build web --release
 ```
-
-## License
-This project is licensed under the MIT License.
